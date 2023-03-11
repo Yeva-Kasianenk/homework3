@@ -1,0 +1,52 @@
+.list {
+  list-style: none;
+}
+
+.navigation {
+}
+.nav-list {
+}
+.nav-item:hover {
+  color: blue;
+}
+.nav-link {
+}
+.nav-span {
+}
+.hero {
+}
+
+.navigaion {
+}
+.nav-list {
+  display: flex;
+  gap: 50px;
+}
+.nav-item:nth-child(2n + 1) {
+  background-color: darkblue;
+}
+.nav-item:nth-child(2n) {
+  background-color: darkred;
+}
+.nav-link {
+}
+.nav-span {
+}
+.hero {
+}
+.hero-item :nth-child(2n + 1) {
+  background-color: darkblue;
+}
+.hero-item :nth-child(2n) {
+  background-color: darkred;
+}
+.photo {
+}
+.hero-supscribe {
+}
+.hero-title {
+}
+.hero-text {
+}
+.hero-btn {
+}
